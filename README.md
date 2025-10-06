@@ -1,4 +1,4 @@
-<img src="images/dashboard.png" alt="Dashboard Screenshot" width="600">
+<img src="images/British Airways.webp" alt="logo" width="1000">
 
 # British Airways Lounge Eligibility Analysis ✈️
 
