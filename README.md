@@ -1,4 +1,6 @@
-## British Airways Lounge Eligibility Analysis ✈️
+<img src="images/dashboard.png" alt="Dashboard Screenshot" width="600">
+
+# British Airways Lounge Eligibility Analysis ✈️
 
 
 **📌 Project Overview**
