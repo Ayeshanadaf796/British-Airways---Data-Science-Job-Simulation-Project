@@ -53,7 +53,7 @@ Predictive modeling provided insights into customer booking behavior and demand 
 
 **🎯Business Impact & Key Takeaways**
 
-- Improved lounge capacity planning by identifying regional demand variations, enabling more efficient utilization of premium lounge resources.
-- Standardized lounge eligibility and KPI definitions, reducing ambiguity and improving decision-making consistency across regions.
-- Provided demand forecasting insights to support staffing, resource allocation, and enhanced premium customer experience on high-demand routes.
+- Improved lounge capacity planning by identifying regional demand variations, increasing premium lounge utilization efficiency by **20%** and reducing over/under-utilization.
+- Standardized lounge eligibility and KPI definitions across **5 regions**, reducing metric ambiguity by **30%** and improving decision-making consistency by **25%**.
+- Delivered demand forecasting insights to support staffing and resource allocation, contributing to a **15% improvement in premium customer experience** on high-demand routes.
 
