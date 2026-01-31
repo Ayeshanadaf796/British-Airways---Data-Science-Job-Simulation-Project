@@ -50,3 +50,10 @@ Moderate demand in Africa (20%), strong demand in North America (25%).
 Short-haul Europe has lower premium lounge demand (15%).
 
 Predictive modeling provided insights into customer booking behavior and demand planning.
+
+**🎯Business Impact & Key Takeaways**
+
+- Improved lounge capacity planning by identifying regional demand variations, enabling more efficient utilization of premium lounge resources.
+- Standardized lounge eligibility and KPI definitions, reducing ambiguity and improving decision-making consistency across regions.
+- Provided demand forecasting insights to support staffing, resource allocation, and enhanced premium customer experience on high-demand routes.
+
