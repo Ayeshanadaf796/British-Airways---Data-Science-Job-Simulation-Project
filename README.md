@@ -1,6 +1,6 @@
 <img src="images/British Airways.webp" alt="logo" width="1000">
 
-# Lounge Eligibility, Demand & Capacity Analysis – British Airways § ✈️
+# Lounge Eligibility, Demand & Capacity Analysis ✈️
 
 
 **📌 Project Overview**
